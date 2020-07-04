@@ -1,0 +1,78 @@
+.overflow{
+    overflow: auto;
+}
+.h1{
+    font-size: 50px;color: midnightblue;float: left;
+}
+.ul{
+    float: right; 
+    margin-right: 2rem;
+}
+.li{
+    display: inline-block;font-size: 50px;
+}
+.a{
+    margin-right: 1rem;color: red;
+}
+.section1{
+    font-size: 4.2rem;height: 150px;
+    position: relative;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: royalblue;
+  }
+.h2{
+    color: seashell;margin: 0; position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .section2{
+    text-align: center; height: 200px;font-size: 4.2rem;
+    min-height: 70vh;
+    position: relative;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    
+
+  }
+  .div1{
+    margin-right: 4rem; 
+    display: inline-block;
+    height: 35rem;
+    width: 35rem;
+  }
+.div2{
+    border-radius: 100%;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+  }
+  .img1{
+     opacity: 0.5;
+    
+  }
+  .dt1{
+    font-size: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    width: 90%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .test{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .section3{
+      background-color: turquoise; font-size: 4.2rem;
+      min-height: 70vh;
+      position: relative;
+      padding-top: 5rem;
+      padding-bottom: 5rem;
+  }
